@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f15f8097de0234985780ba989d14f3, type: 3}
+  m_Name: Pistol Makarov
+  m_EditorClassIdentifier: 
+  _id: PISTOL MAKAROV
+  _displayName: Pistol Makarov
+  _description: 
+  _color: {r: 1, g: 1, b: 1, a: 1}
+  _icon: {fileID: 0}
+  _itemType: 0
+  _model: {fileID: 0}
+  _playAnimationOnUse: 0
+  _animationOnUse: 
+  _stackSize: 1
+  _weight: 1
+  _price: 100
+  _autoFire: 0
+  _damage: 10
+  _fireRate: 300
+  _range: 300
+  _knockback: 2
+  _force: 100
+  _spread: 5
+  _reloadTime: 1
+  _magSize: 8
+  _projectilesPerShot: 1
+  _pierceCount: 1
+  _usingAmmo:
+  - {fileID: 11400000, guid: 5a653752dadedd14b94c08251e78fe15, type: 2}
+  - {fileID: 11400000, guid: 9129293b0b8c04249810315e314099f5, type: 2}
+  - {fileID: 11400000, guid: 17b3ec9af41873a4eb1628a341d89ac0, type: 2}
+  _modifiers: []
+  _effects: []

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e88de12b6d85c54eb9682551af40a76, type: 3}
+  m_Name: Patrol
+  m_EditorClassIdentifier: 
+  _id: PATROL
+  _states:
+  - _config: {fileID: 11400000, guid: 071e8ed08524c0c46aa53fa3c75b260f, type: 2}
+    _value: 0
+  - _config: {fileID: 11400000, guid: deedc7c4dee78d8458b2d9e129f64612, type: 2}
+    _value: 1
+  - _config: {fileID: 11400000, guid: b93a35aa4e0dcd54c8dc86bd92b59f0e, type: 2}
+    _value: 0

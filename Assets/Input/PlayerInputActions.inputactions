@@ -471,6 +471,15 @@
                     "initialStateCheck": false
                 },
                 {
+                    "name": "Status",
+                    "type": "Button",
+                    "id": "ad8f867e-5668-4974-a3ca-23d2b5b5c530",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
                     "name": "PreviousTab",
                     "type": "Button",
                     "id": "df71aba3-98ec-413e-8d45-7a6d2b92dfa6",
@@ -795,6 +804,28 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "PreviousTab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "31d8b0d6-d1f4-4601-8e9e-88a4fa1e0bd0",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard&Mouse",
+                    "action": "Status",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "27ce1ada-e439-44ba-97d8-bddd13dbc936",
+                    "path": "<Gamepad>/select",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "Status",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },

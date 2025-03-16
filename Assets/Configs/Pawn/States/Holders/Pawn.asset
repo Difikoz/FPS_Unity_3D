@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa3d10ec8d4c7842b65716c6188ce26, type: 3}
+  m_Name: Pawn
+  m_EditorClassIdentifier: 
+  _id: PAWN
+  _states:
+  - {fileID: 11400000, guid: 071e8ed08524c0c46aa53fa3c75b260f, type: 2}
+  - {fileID: 11400000, guid: deedc7c4dee78d8458b2d9e129f64612, type: 2}
+  - {fileID: 11400000, guid: b93a35aa4e0dcd54c8dc86bd92b59f0e, type: 2}
+  - {fileID: 11400000, guid: a46c9766e7170cb4aaf43564c737e2dc, type: 2}
+  - {fileID: 11400000, guid: 0859277df79b1df4c8f4f9991f89b80e, type: 2}
+  - {fileID: 11400000, guid: 4c4169808f7df7e4faf572ffb4da2a68, type: 2}
+  - {fileID: 11400000, guid: 681c3507811e82d4299ce4bcd430a3b8, type: 2}
+  - {fileID: 11400000, guid: b8b7ad410701a0445b94e1c0a8dbb407, type: 2}
